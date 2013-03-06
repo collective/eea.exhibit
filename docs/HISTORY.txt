@@ -1,6 +1,11 @@
 Changelog
 =========
 
+6.3-dev - (unreleased)
+----------------------
+* Change: Compatible with eea.app.visualization 7.0+
+  [voineali refs #14003]
+
 6.2 - (2013-01-10)
 ------------------
 * Upgrade step: Within "Plone > Site setup > Add-ons" click on
